@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TaliusDike
-- 🌱 I’m currently learning Frontend web development; it's been quite the journey
-- 💞️ I’m looking to collaborate as I grow on this journey
+- 🌱 I’m currently learning Frontend web development, and it's been quite the journey
+- 💞️ I’m looking to collaborate as I continue and grow on this journey
 - 📫 Reach me on Twitter @TaliusDike_
 
 <!---
